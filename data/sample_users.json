@@ -1,0 +1,16 @@
+[
+  {
+    "_id": 1,
+    "first_name": "Ali",
+    "last_name": "Yılmaz",
+    "email": "ali@example.com",
+    "birth_date": "1995-07-20"
+  },
+  {
+    "_id": 2,
+    "first_name": "Oya",
+    "last_name": "Ozcan",
+    "email": "oyaozcan@example.com",
+    "birth_date": "1998-09-28"
+  }
+]

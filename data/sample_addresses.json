@@ -1,0 +1,16 @@
+[
+    {
+      "user_id": "USER_ID",
+      "type": "delivery",
+      "address_line": "Büyükdere Cad. No:10",
+      "city": "İstanbul",
+      "postal_code": "34394"
+    },
+      {
+        "user_id": "USER_ID1",
+        "type": "billing",
+        "address_line": "Cumhuriyet Cad. No:22",
+        "city": "İstanbul",
+        "postal_code": "34354"
+      }
+  ]

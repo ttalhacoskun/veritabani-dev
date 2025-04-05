@@ -1,0 +1,22 @@
+[
+    {
+      "user_id": "USER_ID",
+      "products": [
+        { "name": "Kulaklık", "price": 750 },
+        { "name": "Laptop", "price": 12500 }
+      ],
+      "total_price": 13250,
+      "delivery_address_id": "DELIVERY_ID",
+      "billing_address_id": "BILLING_ID"
+    },
+    {
+      "user_id": "USER_ID1",
+      "products": [
+        { "name": "Telefon", "price": 9500 },
+        { "name": "Kılıf", "price": 150 }
+      ],
+      "total_price": 9650,
+      "delivery_address_id": "DELIVERY_ID1",
+      "billing_address_id": "BILLING_ID1"
+    }
+]
